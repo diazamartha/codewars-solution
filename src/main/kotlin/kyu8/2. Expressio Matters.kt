@@ -1,5 +1,7 @@
 package codewars
 
+// problems 2
+
 /*
 Task
 Given three integers a ,b ,c, return the largest number obtained after inserting the following operators and brackets: +, *, ()
@@ -44,7 +46,6 @@ fun main(){
 }
 
 // another solution
-
 class Kata2{
     companion object {
         fun cariNilaiMax(a: Int, b: Int, c: Int): Int {
