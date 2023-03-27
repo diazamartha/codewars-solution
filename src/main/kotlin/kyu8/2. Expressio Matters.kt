@@ -36,6 +36,7 @@ class Kata {
             val maxNumber = findMax.maxOrNull()
 
             return maxNumber
+
         }
     }
 }
